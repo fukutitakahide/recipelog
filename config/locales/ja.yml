@@ -1,0 +1,14 @@
+ja:
+  activerecord:
+    models:
+      recipe: レシピ 
+      user: ユーザー
+    attributes:
+      recipe:
+        title: レシピ名
+        body: 作り方
+        image: 写真
+      user:
+        username: お名前
+        email:  メールアドレス
+        password: パスワード
