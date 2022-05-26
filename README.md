@@ -1,10 +1,9 @@
 ***
-fast_news  
+recipelog
 
 **概要**  
 ***
-自分に興味のあるニュースだけ見られる。  
-ニュースのフィルタリングができるサービスです。  
+レシピを記録し、共有するサービスです。  
 
 <img src="https://user-images.githubusercontent.com/55477664/170502175-663c2b35-9f76-4325-82e1-1a368401f93d.png" width="500サイズ">
 
