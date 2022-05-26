@@ -6,8 +6,8 @@ fast_news
 自分に興味のあるニュースだけ見られる。  
 ニュースのフィルタリングができるサービスです。  
 
-<img src="https://user-images.githubusercontent.com/55477664/146688970-3dc396ca-1de8-4f81-a8b5-72b3980e797f.jpg" width="500サイズ">
-
+<img src="https://user-images.githubusercontent.com/55477664/170502175-663c2b35-9f76-4325-82e1-1a368401f93d.png" width="500サイズ">
+![recipelog-top](https://user-images.githubusercontent.com/55477664/170502175-663c2b35-9f76-4325-82e1-1a368401f93d.png)
 <p float="left">
   <img src="https://user-images.githubusercontent.com/55477664/146688968-aee4fa7c-91b0-4d36-98f3-323f0a48fdfb.jpg" width="150サイズ">
   <img src="https://user-images.githubusercontent.com/55477664/146688961-f8a3df01-a96b-410e-9582-08a4e09cdddb.jpg" width="200サイズ">
